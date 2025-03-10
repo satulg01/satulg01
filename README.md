@@ -7,6 +7,10 @@
 
 ---
 
+[![Roger Rodrigues de Oliveira profile views](https://u8views.com/api/v1/github/profiles/65572143/views/day-week-month-total-count.svg)](https://u8views.com/github/satulg01)
+
+---
+
 ## 🚀 Tecnologias & Ferramentas:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
